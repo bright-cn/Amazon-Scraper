@@ -1,0 +1,1628 @@
+[
+    {
+        "input": {
+            "url": "https://www.amazon.com/KitchenAid-Protective-Dishwasher-Stainless-8-72-Inch/dp/B07PZF3QS3",
+            "asin": ""
+        },
+        "title": "KitchenAid All Purpose Kitchen Shears with Protective Sheath for Everyday use, Dishwasher Safe Stainless Steel Scissors with Comfort Grip, 8.72-Inch, Black",
+        "seller_name": "Amazon.com",
+        "brand": "KitchenAid",
+        "description": "These all-purpose shears from KitchenAid are a valuable addition to your kitchen utensils set and ideal for a variety of tasks throughout the home, from slicing poultry and pizza to clipping coupons. The blade edges feature micro-serrations to provide a superior cutting experience. Durable and strong, these kitchen scissors are made from heavy-duty stainless steel that withstands daily use, with soft-grip handles that provide comfort and control while using. The shears come with a blade guard to protect blades when stored. Dishwasher safe; hand washing is recommended.",
+        "initial_price": 11.99,
+        "currency": "USD",
+        "availability": "In Stock",
+        "reviews_count": 77557,
+        "categories": [
+            "Home & Kitchen",
+            "Kitchen & Dining",
+            "Kitchen Utensils & Gadgets",
+            "Shears"
+        ],
+        "parent_asin": "B0D4V1YS21",
+        "asin": "B07PZF3QS3",
+        "buybox_seller": "Amazon.com",
+        "number_of_sellers": 1,
+        "root_bs_rank": 25,
+        "answered_questions": 0,
+        "domain": "https://www.amazon.com/",
+        "images_count": 4,
+        "url": "https://www.amazon.com/KitchenAid-Protective-Dishwasher-Stainless-8-72-Inch/dp/B07PZF3QS3?th=1&psc=1&language=en_US&currency=USD",
+        "video_count": 0,
+        "image_url": "https://m.media-amazon.com/images/I/41E7ALk+uXL._AC_SL1200_.jpg",
+        "item_weight": "4.8 Ounces",
+        "rating": {
+            "__TYPE__": "Literal_value",
+            "value": "4.8"
+        },
+        "product_dimensions": "8.73\"L x 3.62\"W",
+        "seller_id": "ATVPDKIKX0DER",
+        "discount": "-25%",
+        "department": "Home & Kitchen",
+        "plus_content": true,
+        "upc": "822093016610 822093014920 024131405602",
+        "video": false,
+        "top_review": "I love these KitchenAid shears! They're sharp, sturdy, and comfortable to hold \u2013 perfect for everything from snipping herbs to tackling chicken bones. But the best part? They come with a protective sheath.You see, my kids have a habit of \"borrowing\" my kitchen scissors for craft projects and who-knows-what-else, only to have them vanish into the abyss of their rooms. But thanks to this handy sheath, I can finally keep track of my shears! They're always where I left them, ready for kitchen duty.Plus, they're dishwasher safe, so even if the kids do manage to swipe them, at least I know they'll come back clean.If you're looking for a reliable, versatile pair of kitchen shears that can withstand both culinary tasks and the occasional kid-induced disappearance, look no further than KitchenAid.",
+        "final_price_high": null,
+        "final_price": 8.99,
+        "variations": [
+            {
+                "name": "Aqua Sky 8.72 Inch",
+                "asin": "B07TLNSW1S",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "Pistachio 8.72 Inch",
+                "asin": "B07TMR7S38",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "Gray 8.72 Inch",
+                "asin": "B07TPYDDC9",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "Black/Red 2 Pack",
+                "asin": "B0D8H1NTXH",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "Red 8.72 Inch",
+                "asin": "B07Q2WDMCM",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "Ink Blue 8.72 Inch",
+                "asin": "B082JRVBPG",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "Lavendar Cream 8.72 Inch",
+                "asin": "B082JRQ77R",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "Black 8.72 Inch",
+                "asin": "B07PZF3QS3",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            }
+        ],
+        "delivery": [
+            "FREE delivery Friday, October 25 on orders shipped by Amazon over $35",
+            "Or fastest Same-Day delivery Today 10 AM - 3 PM. Order within 4 hrs 46 mins"
+        ],
+        "features": [
+            "HOUSEHOLD ESSENTIAL Use these all-purpose shears for a variety of tasks throughout the home, from slicing poultry and pizza to clipping coupons",
+            "ENHANCED BLADES The micro-serrations on the blade edges of these kitchen scissors provide a superior cutting experience on everything from tough cuts of meat to strong wires and twine",
+            "SOFT GRIP The handles provide comfort and control, making these shears a go-to kitchen gadget",
+            "DURABLE AND STRONG The dishwasher-safe, heavy-duty stainless steel makes these shears a valuable kitchen utensil that will stand up to everyday use",
+            "BLADE GUARD The included guard protects the blades on these kitchen scissors when they are stored"
+        ],
+        "buybox_prices": {
+            "final_price": 8.99,
+            "initial_price": 11.99,
+            "discount": "-25%",
+            "unit_price": null
+        },
+        "bought_past_month": 30000,
+        "is_available": true,
+        "root_bs_category": "Kitchen & Dining",
+        "bs_category": "Kitchen Shears",
+        "bs_rank": 2,
+        "badge": null,
+        "subcategory_rank": [
+            {
+                "subcategory_name": "Kitchen Shears",
+                "subcategory_rank": 2
+            }
+        ],
+        "amazon_choice": false,
+        "images": [
+            "https://m.media-amazon.com/images/I/41E7ALk+uXL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/710B9HpzMPL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/615Rolz2qVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/41E7ALk+uXL._AC_SL1200_.jpg"
+        ],
+        "product_details": [
+            {
+                "type": "Finish Type",
+                "value": "Brushed"
+            },
+            {
+                "type": "Handle Material",
+                "value": "Stainless Steel"
+            },
+            {
+                "type": "Blade Material",
+                "value": "Stainless Steel"
+            },
+            {
+                "type": "Material Type",
+                "value": "Stainless Steel"
+            },
+            {
+                "type": "Hand Orientation",
+                "value": "Ambidextrous"
+            },
+            {
+                "type": "Blade Edge",
+                "value": "Bevel"
+            },
+            {
+                "type": "Style Name",
+                "value": "Shears"
+            },
+            {
+                "type": "Color",
+                "value": "Black"
+            },
+            {
+                "type": "Item Weight",
+                "value": "4.8 Ounces"
+            },
+            {
+                "type": "Blade Length",
+                "value": "3.82 Inches"
+            },
+            {
+                "type": "Item Dimensions L x W",
+                "value": "8.73\"L x 3.62\"W"
+            },
+            {
+                "type": "Customer Reviews",
+                "value": "4.84.8 out of 5 stars77,557 ratings4.8 out of 5 stars"
+            },
+            {
+                "type": "Best Sellers Rank",
+                "value": "#25 in Kitchen & Dining (See Top 100 in Kitchen & Dining)#2 in Kitchen Shears"
+            },
+            {
+                "type": "ASIN",
+                "value": "B07PZF3QS3"
+            },
+            {
+                "type": "UPC",
+                "value": "822093016610 822093014920 024131405602"
+            },
+            {
+                "type": "Brand Name",
+                "value": "KitchenAid"
+            },
+            {
+                "type": "Global Trade Identification Number",
+                "value": "00822093016610, 00024131405602, 00822093014920"
+            },
+            {
+                "type": "Color",
+                "value": "Black"
+            },
+            {
+                "type": "Material",
+                "value": "Stainless Steel"
+            },
+            {
+                "type": "Brand",
+                "value": "KitchenAid"
+            },
+            {
+                "type": "Blade Material",
+                "value": "Stainless Steel"
+            },
+            {
+                "type": "Product Dimensions",
+                "value": "8.73\"L x 3.62\"W"
+            }
+        ],
+        "prices_breakdown": {
+            "typical_price": null,
+            "list_price": 11.99,
+            "deal_type": null
+        },
+        "country_of_origin": null,
+        "from_the_brand": null,
+        "product_description": [
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e7b2eb8f-fe4a-44ca-8b7c-94924025c750.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6f4ec4b5-73a0-44a6-8688-d472eed18ea8.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/058da1d6-eb0a-4951-85c1-57548223c01a.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f849c1b0-5693-454b-9c56-e112d6795a67.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dc8c8d3e-3374-4728-8972-16c74bbb693c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c50abe7c-9ae4-44fb-8414-6023dd03eb86.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f246ee02-662b-447e-b85e-d603ff25b324.__CR0,146,1404,434_PT0_SX970_V1___.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9fe7d6c-88e4-4ff7-982c-1bd0c13f68f4.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+                "type": "image"
+            }
+        ],
+        "seller_url": "https://www.amazon.com/sp?ie=UTF8&seller=ATVPDKIKX0DER&asin=B07PZF3QS3",
+        "timestamp": "2024-10-20T09:13:46.742Z"
+    },
+    {
+        "input": {
+            "url": "https://www.amazon.com/Quencher-FlowState-Stainless-Insulated-Smoothie/dp/B0CRMZHDG8",
+            "asin": ""
+        },
+        "title": "Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Fuchsia, 40oz",
+        "seller_name": "Amazon.com",
+        "brand": "STANLEY",
+        "description": "Constructed of recycled stainless steel for sustainable sipping, our 40 oz Quencher H2.0 offers maximum hydration with fewer refills. Commuting, studio workouts, day trips or your front porch\u2014you\u2019ll want this tumbler by your side. Thanks to Stanley\u2019s vacuum insulation, your water will stay ice-cold, hour after hour. The advanced FlowState\u2122 lid features a rotating cover with three positions: a straw opening designed to resist splashes while holding the reusable straw in place, a drink opening, and a full-cover top. The ergonomic handle includes comfort-grip inserts for easy carrying, and the narrow base fits just about any car cup holder.",
+        "initial_price": 45,
+        "currency": "USD",
+        "availability": "In Stock",
+        "reviews_count": 44352,
+        "categories": [
+            "Home & Kitchen",
+            "Kitchen & Dining",
+            "Dining & Entertaining",
+            "Glassware & Drinkware",
+            "Tumblers & Water Glasses"
+        ],
+        "parent_asin": "B0DG5KJGZK",
+        "asin": "B0CRMZHDG8",
+        "buybox_seller": "Amazon.com",
+        "number_of_sellers": 1,
+        "root_bs_rank": 1,
+        "answered_questions": 0,
+        "domain": "https://www.amazon.com/",
+        "images_count": 8,
+        "url": "https://www.amazon.com/Stanley-Quencher-H2-O-FlowState-Tumbler/dp/B0CRMZHDG8?th=1&psc=1&language=en_US&currency=USD",
+        "video_count": 0,
+        "image_url": "https://m.media-amazon.com/images/I/61Q4eGZWFSL._AC_SL1500_.jpg",
+        "item_weight": "1.43 pounds",
+        "rating": {
+            "__TYPE__": "Literal_value",
+            "value": "4.7"
+        },
+        "product_dimensions": "10\"W x 13.25\"H",
+        "seller_id": "ATVPDKIKX0DER",
+        "date_first_available": "March 11, 2024",
+        "model_number": "10-11824-062",
+        "manufacturer": "Stanley",
+        "department": "Home & Kitchen",
+        "plus_content": true,
+        "upc": "041604394331 041604394102",
+        "video": false,
+        "top_review": "I love these cups. We bought two different color and sizes\u2026the lids screw on and stay on! My toddler can\u2019t just pop them off which I love. They are not leak proof however\u2026which is icky for me as I have a toddler who loves to try to drink from my cup and/or dump it upside down which gets whatever I\u2019m drinking everywhere..The straw, lid, and cup itself have held up really well after multiple washes through our dishwasher-some straws melt this one has not! It is so easy to clean also which is a major selling point for us\u2026I hate those cups that you just can\u2019t clean easily or well enough I know my Stanley won\u2019t get mold in the lid or anything due to being able to take the middle lid part off (the part that spins) and the ease to clean for the rest of it helps too!The cup fits in my cars cup holder which a major selling point for me!Altogether I like these cups and their designs. I wish they weren\u2019t so pricy for a travel mug but they work well and I won\u2019t have to replace it anytime soon and it\u2019s nice having a stainless stee inside that actually keeps my drinks cold or hot for long hours (over night if there\u2019s ice in my cup there\u2019s ice after 12+ hours which I love so I can have cold water in the middle of the night which I can\u2019t do with my water bottles I usually use\u2026)",
+        "final_price_high": null,
+        "final_price": 45,
+        "variations": [
+            {
+                "name": "40 oz Forrest Gloss Deco",
+                "asin": "B0CN1MVGWK",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Black Chroma",
+                "asin": "B0CRMRQKCJ",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Lilac",
+                "asin": "B0CRMWJCFM",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Indigo",
+                "asin": "B0CTS7J6W7",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Plum",
+                "asin": "B0CRN1XC69",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Stone",
+                "asin": "B0CP9YR13X",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Ash",
+                "asin": "B0CP9Y2BLN",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Shale",
+                "asin": "B0CV649NHV",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Ash",
+                "asin": "B0CP9WN6YS",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Stone",
+                "asin": "B0CP9Z1NT5",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Black 2.0",
+                "asin": "B0CP9Z1S51",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Matcha Cream",
+                "asin": "B0CX794VYP",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Indigo",
+                "asin": "B0CV4LNPFX",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Seafoam",
+                "asin": "B0CTS7223W",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Blush Gloss Deco",
+                "asin": "B0CN1PGY2N",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Lilac",
+                "asin": "B0CJZZNS72",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Peony",
+                "asin": "B0CRMWHW47",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Azure",
+                "asin": "B0CRMXG22M",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Cream 2.0",
+                "asin": "B0CP9YBWMG",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Frost",
+                "asin": "B0CK9PT53B",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "64 oz Rose Quartz 2.0",
+                "asin": "B0CP9YBWMH",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Mist",
+                "asin": "B0CRMZSWXD",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Fuchsia",
+                "asin": "B0CRMZ9PFR",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Cream Gloss Deco",
+                "asin": "B0CN1PH6K9",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Mist",
+                "asin": "B0CRMXMM5P",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Peony",
+                "asin": "B0CRMP3RQT",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "64 oz Glacier",
+                "asin": "B0DCDZSBJ9",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Black 2.0",
+                "asin": "B0CP9YF9W7",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Shale",
+                "asin": "B0CV63638C",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Nightfall Gloss Deco",
+                "asin": "B0CN1MP6H4",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Rose Quartz 2.0",
+                "asin": "B0CP9WRDFV",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "64 oz Seafoam",
+                "asin": "B0D2Z2HH8D",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Glacier",
+                "asin": "B0DCDS4D5L",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Seafoam",
+                "asin": "B0CV4JV93G",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Stone",
+                "asin": "B0CP9Y2SKW",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Plum",
+                "asin": "B0CRMYT2WC",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Neon Orange",
+                "asin": "B0CV64B9GD",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Cream 2.0",
+                "asin": "B0CP9Y7GN3",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Matcha Cream",
+                "asin": "B0CX71HXHZ",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Tropical Teal",
+                "asin": "B0D2ZBCYLL",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Goldenrod",
+                "asin": "B0D2YWPNTV",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Chili",
+                "asin": "B0D2Z9Y12N",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Frost",
+                "asin": "B0CPH5FNX3",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Chili",
+                "asin": "B0D2Z5MVZC",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Mist",
+                "asin": "B0CRMXD5GN",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Indigo",
+                "asin": "B0D2YX9Q1P",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Rose Quartz 2.0",
+                "asin": "B0CP9Y94YH",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Bright Lime",
+                "asin": "B0D2YG51KB",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Cream 2.0",
+                "asin": "B0CP9Y3152",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Stainless Steel Shale",
+                "asin": "B0BS1T1VRD",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "64 oz Cream 2.0",
+                "asin": "B0CP9YQDZ3",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "64 oz Frost",
+                "asin": "B0CP9YDB43",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Stainless Steel Shale",
+                "asin": "B0BS1TSN3V",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Azure",
+                "asin": "B0CRMTZ1Q3",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Vivid Violet",
+                "asin": "B0D2YG91F2",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Blue Spruce",
+                "asin": "B0CRMXP5R5",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Vivid Violet",
+                "asin": "B0D2Z2R3KX",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Ash",
+                "asin": "B0CJZW65R3",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Ash",
+                "asin": "B0CJZF9XZZ",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Passion Pink",
+                "asin": "B0D2Z7WG2H",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Neon Yellow",
+                "asin": "B0CV63X2FB",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Almond Rose",
+                "asin": "B0D4FDBD11",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Rose Quartz 2.0",
+                "asin": "B0CP9Z56SW",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Matcha Cream",
+                "asin": "B0CX76WC1M",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "64 oz Stone",
+                "asin": "B0CQ1DBQS2",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Almond Rose",
+                "asin": "B0D4FD89YY",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Pomelo",
+                "asin": "B0CRMZQ83R",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Lilac",
+                "asin": "B0CJZMP7L1",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Nectarine",
+                "asin": "B0CV64341S",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Black 2.0",
+                "asin": "B0CP9ZGQ2C",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Stone",
+                "asin": "B0CP9ZX49N",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "64 oz Ash",
+                "asin": "B0CP9Z667B",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Stainless Steel Shale",
+                "asin": "B0BS1XH3YG",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Tigerlily Plum",
+                "asin": "B0CRMY498M",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Black 2.0",
+                "asin": "B0CP9Z2ZBL",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Fuchsia",
+                "asin": "B0CRMZHDG8",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Glacier",
+                "asin": "B0DCDQVMBM",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Mist",
+                "asin": "B0CRMY5BMK",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Frost",
+                "asin": "B0CPH6YS88",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Indigo",
+                "asin": "B0D2Z8PJWT",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Nectarine",
+                "asin": "B0CV63QB3X",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Pomelo",
+                "asin": "B0CRMYHY1B",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Matcha Cream",
+                "asin": "B0CX77PNG1",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Cream 2.0",
+                "asin": "B0CP9Z16VD",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Stainless Steel Shale",
+                "asin": "B0BQZC46PC",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Rose Quartz 2.0",
+                "asin": "B0CP9YB3Q4",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Goldenrod",
+                "asin": "B0D2Z8DQJ8",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "64 oz Black 2.0",
+                "asin": "B0CPZYJDBQ",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Black Gloss Deco",
+                "asin": "B0CN1L7ZPV",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Tropical Teal",
+                "asin": "B0D2YZGMZZ",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Bright Lime",
+                "asin": "B0D2Z2WZ4J",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "14 oz Lilac",
+                "asin": "B0CRMXX6S4",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Frost",
+                "asin": "B0CK9GTLJY",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Blue Spruce",
+                "asin": "B0CRMZT4Z1",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Neon Orange",
+                "asin": "B0CV62XSDZ",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "20 oz Pomelo",
+                "asin": "B0CRMQSWYZ",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Tigerlily Plum",
+                "asin": "B0CRMTVBJB",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "30 oz Pomelo",
+                "asin": "B0CRMTWY41",
+                "price": null,
+                "currency": null,
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Passion Pink",
+                "asin": "B0D2Z1PJWT",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            },
+            {
+                "name": "40 oz Black Chroma",
+                "asin": "B0CRMZ7TFZ",
+                "price": null,
+                "currency": "USD",
+                "unit_price": null
+            }
+        ],
+        "delivery": [
+            "FREE delivery Friday, October 25",
+            "Or Prime members get FREE Same-Day delivery Today 10 AM - 3 PM. Order within 4 hrs 46 mins. Join Prime"
+        ],
+        "features": [
+            "YOUR DREAM TUMBLER Whichever way your day flows, the H2.0 FlowState tumbler keeps you refreshed with fewer refills. Double wall vacuum insulation means drinks stay cold, iced or hot for hours. Choose between our 14oz, 20oz, 30oz,40oz and 64oz options depending on your hydration needs. The narrow base on all sizes (except 64oz) fits just about any car cup holder, keeping it right by your side.",
+            "ADVANCED LID CONSTRUCTION Whether you prefer small sips or maximum thirst quenching, Stanley has developed an advanced FlowState lid, featuring a rotating cover with three positions a straw opening designed to resist splashes with a seal that holds the reusable straw in place, a drink opening, and a full-cover top for added leak resistance. We\u2019ve also included an ergonomic, comfort-grip handle, so you can easily carry your ice-cold water to work, meetings, the gym or trips out of town.",
+            "EARTH-FRIENDLY DURABILITY Constructed of 90% recycled BPA free stainless steel for sustainable sipping, the Stanley Quencher H2.0 has the durability to stand up to a lifetime of use. Eliminate the use of single-use plastic bottles and straws with a travel tumbler built with sustainability in mind.",
+            "DISHWASHER SAFE Spend less time hunched over the sink and more time doing the things you love. Cleaning your tumbler and lid couldn't be easier, just pop them into the dishwasher. Unlike plastic bottles that retain stains & smells, this metallic beauty comes out pristine",
+            "LIFETIME WARRANTY Since 1913 we\u2019ve promised to provide rugged, capable gear for food and drink - accessories built to last a lifetime. It\u2019s a promise we still keep. Stanley products purchased from Stanley Resellers come with a lifetime warranty. Rest easy knowing we\u2019ve got your back through it all."
+        ],
+        "buybox_prices": {
+            "final_price": 45,
+            "unit_price": null
+        },
+        "bought_past_month": 3000,
+        "is_available": true,
+        "root_bs_category": "Kitchen & Dining",
+        "bs_category": "Tumblers & Water Glasses",
+        "bs_rank": 1,
+        "badge": "#1 Best Seller",
+        "subcategory_rank": [
+            {
+                "subcategory_name": "Tumblers & Water Glasses",
+                "subcategory_rank": 1
+            }
+        ],
+        "amazon_choice": false,
+        "images": [
+            "https://m.media-amazon.com/images/I/61Q4eGZWFSL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51bcm0wT+ML._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/419lkeRtRxL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61uX5T7RmJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/716KABSpFjL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71CCH1lVVIL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/614gBtVIEuL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61B+Xczl9dL._AC_SL1500_.jpg"
+        ],
+        "product_details": [
+            {
+                "type": "Brand",
+                "value": "STANLEY"
+            },
+            {
+                "type": "Color",
+                "value": "Fuchsia"
+            },
+            {
+                "type": "Special Feature",
+                "value": "Rotating"
+            },
+            {
+                "type": "Style",
+                "value": "40 oz"
+            },
+            {
+                "type": "Recommended Uses For Product",
+                "value": "Travel"
+            },
+            {
+                "type": "Included Components",
+                "value": "FlowState\u2122 3-position lid with rotating cover for versatility, Reusable straw included"
+            },
+            {
+                "type": "Shape",
+                "value": "Round"
+            },
+            {
+                "type": "Pattern",
+                "value": "Solid"
+            },
+            {
+                "type": "Product Care Instructions",
+                "value": "Hand Wash Only"
+            },
+            {
+                "type": "Age Range (Description)",
+                "value": "Adult"
+            },
+            {
+                "type": "Material Feature",
+                "value": "Insulated"
+            },
+            {
+                "type": "Reusability",
+                "value": "Reusable"
+            },
+            {
+                "type": "Unit Count",
+                "value": "1.0 Count"
+            },
+            {
+                "type": "Product Dimensions",
+                "value": "10\"W x 13.25\"H"
+            },
+            {
+                "type": "Material Type Free",
+                "value": "BPA Free"
+            },
+            {
+                "type": "Number of Items",
+                "value": "1"
+            },
+            {
+                "type": "Finish Type",
+                "value": "Powder Coat"
+            },
+            {
+                "type": "Manufacturer",
+                "value": "Stanley"
+            },
+            {
+                "type": "UPC",
+                "value": "041604394331 041604394102"
+            },
+            {
+                "type": "Size",
+                "value": "40 oz"
+            },
+            {
+                "type": "Item Weight",
+                "value": "1.43 pounds"
+            },
+            {
+                "type": "Department",
+                "value": "Unisex-Adult"
+            },
+            {
+                "type": "ASIN",
+                "value": "B0CRMZHDG8"
+            },
+            {
+                "type": "Country of Origin",
+                "value": "China"
+            },
+            {
+                "type": "Item model number",
+                "value": "10-11824-062"
+            },
+            {
+                "type": "Customer Reviews",
+                "value": "4.74.7 out of 5 stars44,352 ratings4.7 out of 5 stars"
+            },
+            {
+                "type": "Best Sellers Rank",
+                "value": "#1 in Kitchen & Dining (See Top 100 in Kitchen & Dining)#1 in Tumblers & Water Glasses"
+            },
+            {
+                "type": "Date First Available",
+                "value": "March 11, 2024"
+            },
+            {
+                "type": "Brand",
+                "value": "STANLEY"
+            },
+            {
+                "type": "Color",
+                "value": "Fuchsia"
+            },
+            {
+                "type": "Special Feature",
+                "value": "Rotating"
+            },
+            {
+                "type": "Style",
+                "value": "40 oz"
+            },
+            {
+                "type": "Recommended Uses For Product",
+                "value": "Travel"
+            },
+            {
+                "type": "Brand",
+                "value": "STANLEY"
+            },
+            {
+                "type": "Color",
+                "value": "Fuchsia"
+            },
+            {
+                "type": "Special Feature",
+                "value": "Rotating"
+            },
+            {
+                "type": "Style",
+                "value": "40 oz"
+            },
+            {
+                "type": "Recommended Uses For Product",
+                "value": "Travel"
+            },
+            {
+                "type": "Included Components",
+                "value": "FlowState\u2122 3-position lid with rotating cover for versatility, Reusable straw included"
+            },
+            {
+                "type": "Shape",
+                "value": "Round"
+            },
+            {
+                "type": "Pattern",
+                "value": "Solid"
+            },
+            {
+                "type": "Product Care Instructions",
+                "value": "Hand Wash Only"
+            },
+            {
+                "type": "Age Range (Description)",
+                "value": "Adult"
+            },
+            {
+                "type": "Material Feature",
+                "value": "Insulated"
+            },
+            {
+                "type": "Reusability",
+                "value": "Reusable"
+            },
+            {
+                "type": "Unit Count",
+                "value": "1.0 Count"
+            },
+            {
+                "type": "Product Dimensions",
+                "value": "10\"W x 13.25\"H"
+            },
+            {
+                "type": "Material Type Free",
+                "value": "BPA Free"
+            },
+            {
+                "type": "Number of Items",
+                "value": "1"
+            },
+            {
+                "type": "Finish Type",
+                "value": "Powder Coat"
+            },
+            {
+                "type": "Manufacturer",
+                "value": "Stanley"
+            },
+            {
+                "type": "UPC",
+                "value": "041604394331 041604394102"
+            },
+            {
+                "type": "Size",
+                "value": "40 oz"
+            },
+            {
+                "type": "Item Weight",
+                "value": "1.43 pounds"
+            },
+            {
+                "type": "Department",
+                "value": "Unisex-Adult"
+            },
+            {
+                "type": "ASIN",
+                "value": "B0CRMZHDG8"
+            },
+            {
+                "type": "Country of Origin",
+                "value": "China"
+            },
+            {
+                "type": "Item model number",
+                "value": "10-11824-062"
+            },
+            {
+                "type": "Date First Available",
+                "value": "March 11, 2024"
+            }
+        ],
+        "prices_breakdown": {
+            "typical_price": null,
+            "list_price": null,
+            "deal_type": null
+        },
+        "country_of_origin": "China",
+        "from_the_brand": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/289ef6ac-53e0-442e-8dcd-aef53675a4e3.__CR0,0,2928,1250_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/I/31%2BkYx-tp-L.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/316dnURyN8L.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31RGt%2BeoZyL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/416nv0euVQL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/41aGH8mpxeL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31dhPHaurWL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/311y8YyKszL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31FfIUJvILL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31RSPrZRRhL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31OxB4dsj-L.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31smm61qoqL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/319oRqlAPWL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/317s6lNU3DL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/213g9nxS%2BnL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/312Ea3JEHGL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/21a5gDr5PXL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31rc0bMILfL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/21drBapODlL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/316LQOgIFNL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/41LG4v9QLlL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/41uS7h9c3fL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31lP2S6NlHL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31j9yqQzUhL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/21bOxuIRtoL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/41z%2Bg7oh98L.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31TVuv8s0UL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31l47NP9hqL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31oQcaprrwL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31LYm0xx9nL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31G8mGeX2AL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/312DAuon%2BzL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/41l3Msd3aCL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31-uJIGX8TL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/41B%2BpJWVZyL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/31gyfJpyGGL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/I/41KbJQMN4BL.__AC_SR166,182___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e253e3c-300c-4d36-ba7e-fee31684789a.__CR0,0,724,906_PT0_SX362_V1___.png"
+        ],
+        "product_description": [
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/97534d05-65a9-43c0-a6ec-ab09231b1ea5.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/73093095-b4bd-46ac-af17-ee3486cdb1ff.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bbbb6051-2300-4625-a3fe-e45c7e3cbf74.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0bb29a89-bc89-4fab-878c-84382958ae15.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/af434d84-68b7-4e1b-a06f-8b535a4ac3f4.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/53b837d7-b6be-4cc0-9573-7c75722cfe9e.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f6dfa7dd-91d4-4e1e-80d9-2a8b78daf0db.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df69257d-1acd-4ef8-af33-004d0d8258fe.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e593ca03-b2e0-4a03-b74a-1646aa4c361b.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media/vc/42109da4-8c44-4413-9b9e-52c6f401b734.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media/vc/acdba290-d24d-43dc-bd3e-cd7458cabf6c.mp4",
+                "type": "video"
+            }
+        ],
+        "seller_url": "https://www.amazon.com/sp?ie=UTF8&seller=ATVPDKIKX0DER&asin=B0CRMZHDG8",
+        "timestamp": "2024-10-20T09:13:49.992Z"
+    },
+    {
+        "input": {
+            "url": "https://www.amazon.com/TruSkin-Naturals-Vitamin-Topical-Hyaluronic/dp/B01M4MCUAF",
+            "asin": ""
+        },
+        "title": "TruSkin Vitamin C Serum \u2013 Anti Aging Facial Serum with Vitamin C, Hyaluronic Acid, Vitamin E & More \u2013 Brightening Serum for Dark Spots, Even Skin Tone, Eye Area, Fine Lines & Wrinkles, 1 Fl Oz",
+        "seller_name": null,
+        "brand": "TruSkin Naturals",
+        "description": "Previous page Next page 1 Balanced Blends 2 Botanical Hyaluronic Acid 3 MSM & Witch Hazel 4 Aloe Vera Previous page Next page Complete your regimen for nourished, glowing skin. Vitamin C Facial Serum See Details Vitamin C Cleanser Add to Cart Vitamin C Moisturizer Add to Cart Vitamin C Sunscreen SPF30 Add to Cart Vitamin C Night Cream Add to Cart Customer Reviews 4.3 out of 5 stars 145,771 4.3 out of 5 stars 7,390 4.4 out of 5 stars 15,890 4.3 out of 5 stars 616 4.3 out of 5 stars 1,681 Price \u2014 $13.19$13.19 $15.99$15.99 $19.99$19.99 $15.99$15.99 Skin Benefits Boost radiance & hydration Cleanse for soft, radiant skin Moisturize & soften wrinkles Broad spectrum UV protection Deeply hydrate for glowy skin Key Ingredients Vitamin C, Hyaluronic Acid Vitamin C, Rose Hip Oil, MSM Vitamins C & B5, Green Tea Vitamin C, Zinc, Collagen Vitamin C, Vitamin B5, Aloe Texture Weightless Serum Foaming Gel Hydrating Lotion Sheer Lotion Nourishing Cream Skin Care Step Treat Cleanse Hydrate Protect Replenish When to Use Before Moisturizing Morning/Night After Cleansing After Moisturizing Leave on Overnight How do I know if this product is authentic? To ensure the authenticity of the product, please make sure you are purchasing from the manufacturer: TruSkin. Product authenticity cannot be promised from sellers other than TruSkin/TruSkin Naturals. How do I use this product? Perform a patch-test 24 hours before regular application to ensure the product is a fit for you. If the formula is compatible, apply 3-5 drops 1-2 times a day to face, undereye area, and neck, avoiding direct contact with eyes. External use only. How should I incorporate this product into my skincare routine? Step 1: Cleanse with TruSkin Vitamin C Cleanser 2: Apply toner or exfoliant 3: Apply TruSkin Vitamin C Serum AM and/or PM 4: Apply TruSkin Vitamin C Moisturizer 5: Apply TruSkin Vitamin C Sunscreen AM only. Follow our store for offers & updates.",
+        "currency": "USD",
+        "reviews_count": 145771,
+        "categories": [
+            "Beauty & Personal Care",
+            "Skin Care",
+            "Face",
+            "Treatments & Masks",
+            "Serums"
+        ],
+        "parent_asin": "B0D5VK4VTV",
+        "asin": "B01M4MCUAF",
+        "number_of_sellers": 1,
+        "root_bs_rank": 90,
+        "answered_questions": 0,
+        "domain": "https://www.amazon.com/",
+        "images_count": 7,
+        "url": "https://www.amazon.com/TruSkin-Naturals-Vitamin-Topical-Hyaluronic/dp/B01M4MCUAF?th=1&psc=1&language=en_US&currency=USD",
+        "video_count": 0,
+        "image_url": "https://m.media-amazon.com/images/I/61hJf5eXl+L._SL1500_.jpg",
+        "rating": {
+            "__TYPE__": "Literal_value",
+            "value": "4.3"
+        },
+        "product_dimensions": "1.5 x 1.5 x 4 inches; 1 ounces",
+        "seller_id": "ATVPDKIKX0DER",
+        "model_number": "Best Vitamin C Serum",
+        "manufacturer": "TruSkin Naturals",
+        "department": "Beauty & Personal Care",
+        "plus_content": true,
+        "upc": "850001641265",
+        "video": false,
+        "top_review": "The results are unbelievable, Was a bit skeptical because all the reviews were from Caucasian women. I was slightly worried that my skin would not respond as well but I was quite mistaken.With or without makeup, my skin is bright, smooth and my spots are disappearing.One other result i am sure a number of people have not noticed is that your palms get softer too, i guess the residue on the palms makes it soft and supple.",
+        "final_price_high": null,
+        "variations": [
+            {
+                "name": "2 Fl Oz (Pack of 1)",
+                "asin": "B01EKUBU5Y",
+                "price": 37.36,
+                "currency": "USD",
+                "unit_price": "$18.68 / Fl Oz"
+            },
+            {
+                "name": "1 Fl Oz (Pack of 1)",
+                "asin": "B01M4MCUAF",
+                "price": 21.97,
+                "currency": "USD",
+                "unit_price": null
+            }
+        ],
+        "features": [
+            "SKIN BRIGHTENING SERUM Vitamin C evens skin tone, neutralizes free radicals, and boosts collagen to improve vibrance and reduce dark spots, dark circles, fine lines & wrinkles",
+            "ANTI AGING FORMULA Purposefully balanced blend with Vitamin C, botanical Hyaluronic Acid, Vitamin E, Aloe Vera, Jojoba Oil, and MSM to help brighten, calm & protect skin",
+            "BETTER FORM of VITAMIN C Highly stable, Sodium Ascorbyl Phosphate maintains potency for longer with less skin stinging than other commonly used forms of Vitamin C",
+            "SKIN FRIENDLY, GENTLE SKIN CARE Fragrance free skin nourishment using vital nutrients, antioxidants and botanical actives to improve skin wellness, all in a vegan and cruelty-free formula without parabens and other harmful chemicals you don\u2019t want",
+            "THE TRUSKIN DIFFERENCE If for any reason you decide this product isn't a fit for your skin, we're here for you. Each purposefully balanced medley of key antioxidants, super-nutrients and nourishing botanical actives enhances efficacy and delivers skin-friendly benefits, without added additives or fragrances. The expiration date is printed on the barcode sticker attached to the packaging."
+        ],
+        "buybox_prices": {
+            "unit_price": null
+        },
+        "ingredients": "COMMON FORMAT: Organic Deionized Herbal Infusion (Aqua), Organic Aloe Barbadensis Leaf (Aloe), Sodium Ascorbyl Phosphate (Vitamin C), MSM (Methylsulfonylmethane), Botanical Hyaluronic Acid* (Cassia Angustifolia Seed Polysaccharide), Witch Hazel (Hamamelis Virginiana), Vitamin E (d-alpha Tocopheryl Acetate), Kosher Vegetable Glycerol, Carbomer, (2s)-2-Amino-5-guanidinopentanoic Acid, Organic Gotu Kola, Wildcrafted Equisetum Arvense (Horsetail), Wildcrafted Dandelion, Wildcrafted Organic Geranium, Organic Jojoba Oil (Organic Simmondsia Chinensis), Phenoxyethanol, Ethyl Hexyl Glycerol, Sodium Hydroxide (pH adjuster) INCI FORMAT: Water (Aqua), Organic Aloe Barbendensis (Aloe Vera) Leaf Juice Powder, Sodium Ascorbyl Phosphate (Vitamin C), Hamamelis Virginiana (Witch Hazel) Water, Dimethyl Sulfone (MSM), Cassia Angustifolia Seed Polysaccharide (Botanical Hyaluronic Acid Alternative), Tocopheryl Acetate (Vitamin E), Glycerin (Vegetable Source), Carbomer, Arginine, Centella Asiatica (Gotu Kola) Extract, Equisetum Arvense (Horsetail) Extract, Taraxacum Officinale (Dandelion) Extract, Sodium Hyaluronate, Geranium Maculatum (Geranium) Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide (pH adjuster)",
+        "is_available": false,
+        "root_bs_category": "Beauty & Personal Care",
+        "bs_category": "Facial Serums",
+        "bs_rank": 2,
+        "badge": null,
+        "subcategory_rank": [
+            {
+                "subcategory_name": "Facial Serums",
+                "subcategory_rank": 2
+            }
+        ],
+        "amazon_choice": false,
+        "images": [
+            "https://m.media-amazon.com/images/I/61hJf5eXl+L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Xa+XTzsWL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71F12LYISWL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/8170ou+C5bL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81cbuVz5UEL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51pKskqaa4L._SL1282_.jpg",
+            "https://m.media-amazon.com/images/I/716GqsQtMFL._SL1500_.jpg"
+        ],
+        "product_details": [
+            {
+                "type": "Is Discontinued By Manufacturer",
+                "value": "No"
+            },
+            {
+                "type": "Product Dimensions",
+                "value": "1.5 x 1.5 x 4 inches; 1 ounces"
+            },
+            {
+                "type": "Item model number",
+                "value": "Best Vitamin C Serum"
+            },
+            {
+                "type": "UPC",
+                "value": "850001641265"
+            },
+            {
+                "type": "Manufacturer",
+                "value": "TruSkin Naturals"
+            },
+            {
+                "type": "ASIN",
+                "value": "B01M4MCUAF"
+            },
+            {
+                "type": "Skin Type",
+                "value": "Oily, Combination, Sensitive, Dry, Normal"
+            },
+            {
+                "type": "Product Benefits",
+                "value": "Brightening"
+            },
+            {
+                "type": "Use for",
+                "value": "Skin, Face, Body, Hand"
+            },
+            {
+                "type": "Scent",
+                "value": "Vitamin C Serum (1oz)"
+            },
+            {
+                "type": "Special Ingredients",
+                "value": "Vitamin C, Hyaluronic Acid, Vitamin E"
+            }
+        ],
+        "prices_breakdown": {
+            "typical_price": null,
+            "list_price": null,
+            "deal_type": null
+        },
+        "country_of_origin": null,
+        "from_the_brand": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/89743a74-cdae-4c46-9b48-5809e2cbaf90.__CR0,0,1464,625_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cdc6259b-7e6a-4670-93d6-c13f1547bb46.__CR0,0,362,453_PT0_SX362_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e62b71d2-b876-4576-b02c-b778e3bba095.__CR0,0,362,453_PT0_SX362_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2de3d790-e28b-4c06-84cd-f0af69aa3f25.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e86d142f-0dbf-4e0a-adb5-75c12ade006d.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ecd171b-f41a-40dd-9e56-5aa0908a272e.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d6c1132e-fd3b-4f3d-b449-f92d05e1b89f.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2b8ee8da-4a43-4778-a636-495c2fec1558.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5a024144-7e54-419f-9746-9e731c2bade8.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/470f218a-6e0f-4f7f-92e1-430d5909ccbd.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd839428-276d-4220-99fd-696196dcc7ae.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e4ee684-6dbe-4ad0-b0b4-4b9a51811b3c.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/13e3ffaa-a97f-442c-bffe-a974fe64a072.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72b26fbd-95e7-494d-8232-5942f0c21ecb.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16e87284-f19e-418e-a99e-c1c63a6c22bf.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/61f81bbe-75ea-46a9-b2e0-399cccba0a0a.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/19278354-6451-4df4-b0be-48b4ee8b563d.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2db323eb-7f51-47c0-8a45-e45456e3162b.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1c81bdb3-314d-43cb-a459-64eae5497791.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a632944-37eb-407b-bf54-3e195acbb8fc.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77127381-f4c7-42bd-8c9a-e3a597f85dad.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3212d6af-420b-4b94-9dd1-08c080722b32.__AC_SR166,182___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c075e9ad-a685-4755-8012-4508cf6d3c9a.__AC_SR166,182___.png"
+        ],
+        "product_description": [
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/685070ac-2d6f-411d-9869-5e0abecc7669.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/daa58e9d-02ea-4b48-880d-9ddf1f5182bb.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28b879c7-6051-49c3-91ec-50460f7bc020.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a5487e8-977a-460b-9447-43030bcfa47d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/91064deb-76ce-4d01-bffd-4d66c662344e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f02a050-7f63-418e-8a40-6e5f87f10f96.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ea3eb0a-1b28-4c76-aeda-fe76dc19d58b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/75ae5820-6c1b-4761-b3dc-bb17f723ccb7.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6ee1bd10-00d3-479e-8f35-3d6ed3c6ac3d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f832e49-99aa-452f-9bca-1d2354a55de4.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30b29b2b-41c1-417d-bc43-40b3258687b1.__CR0,0,200,225_PT0_SX200_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8f0b08b-bde2-4ae5-b9a9-20efb3fd4eb0.__CR0,0,200,225_PT0_SX200_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d4eea86-2325-4930-a617-3b24044d256c.__CR0,0,200,225_PT0_SX200_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4dd1ea56-a16a-477b-899e-a6587d892244.__CR0,0,200,225_PT0_SX200_V1___.png",
+                "type": "image"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c9af6211-2d2d-4a46-be25-8c251cb64858.__CR0,0,200,225_PT0_SX200_V1___.png",
+                "type": "image"
+            }
+        ],
+        "seller_url": "https://www.amazon.com/sp?ie=UTF8&seller=ATVPDKIKX0DER&asin=B01M4MCUAF",
+        "timestamp": "2024-10-20T09:13:46.591Z"
+    }
+]
