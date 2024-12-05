@@ -1,6 +1,6 @@
 # 亚马逊爬虫
 
-[![推广](https://github.com/bright-cn/Amazon-scraper/blob/main/images/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://bright.cn/products/web-scraper/amazon?promo=github15)
+[![推广](https://github.com/bright-cn/Amazon-scraper/blob/main/images/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://bright.cn/products/web-scraper/amazon?promo=github15)
 
 ## 目录
 
